@@ -1126,6 +1126,11 @@ footer {
     color: #888888;
 }
 
+.pembatas-feedback{
+    width: 100vw;
+    overflow-x: hidden;
+}
+
 .send-feedback{
     width: 100%;
     display: flex;
@@ -1262,6 +1267,10 @@ footer {
 
     .feedback-container{
         flex-direction: row;
+    }
+
+    .pembatas-feedback{
+        width: 50vw;
     }
 
     .content-comment1{
