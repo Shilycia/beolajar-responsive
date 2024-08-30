@@ -18,7 +18,7 @@
 body{
     position: relative;
     display: grid;
-    overflow-x: hidden;
+    overflow: hidden;
     justify-items: center;
 }
 
