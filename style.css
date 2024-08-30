@@ -16,6 +16,7 @@
 }
 
 body{
+    position: relative;
     display: grid;
     overflow-x: hidden;
     justify-items: center;
