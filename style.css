@@ -1128,7 +1128,7 @@ footer {
 
 .pembatas-feedback{
     width: 100vw;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 .send-feedback{
